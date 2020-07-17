@@ -1,9 +1,9 @@
 ### Daniel Jesus 
 
-Software Engineer in Porto — Portugal , Technical Writer and Speaker, Microsoft Certified Professional
 
 
-<img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white<" />
+
+<img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white<" /> Software Engineer in Porto — Portugal , Technical Writer and Speaker, Microsoft Certified Professional
 
 
 .NET software engineer with more than nine years working in several institutions of finance, e-commerce, logistics, fashion and digital media.
