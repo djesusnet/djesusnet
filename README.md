@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[!Linkedin Badge](gttps://img.shields.io/badge/-LinkedIN-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/djesusnet/)](https://www.linkedin.com/in/djesusnet/)
+<div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="nl_NL" data-type="vertical" data-theme="dark" data-vanity="menno-van-der-graaf-13138490"><a class="LI-simple-link" href='https://nl.linkedin.com/in/menno-van-der-graaf-13138490?trk=profile-badge'>Menno van der Graaf</a></div>
