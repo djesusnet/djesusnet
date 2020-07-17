@@ -1,6 +1,6 @@
 ### Daniel Jesus 
-https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white
 
+[![Csharp Badge](https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white)](https://www.linkedin.com/in/djesusnet/)
 Software Engineer in Porto — Portugal , Technical Writer and Speaker, Microsoft Certified Professional
 
 
