@@ -3,7 +3,7 @@
 
 
 
- Software Engineer in Porto — Portugal , Technical Writer and Speaker, Microsoft Certified Professional
+ Sênior Software Engineer, Technical Writer and Speaker, Microsoft Certified Professional
  
  
  <img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white<" />
