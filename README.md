@@ -23,7 +23,7 @@ Beyond the corporate realm, Daniel is enthusiastic about sharing knowledge. He m
 
 ## I have knowledge
 
-### Skills 🚀
+## Skills 🚀
 <div style="display: inline_block">
   <img align="center" alt="net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=whitee" />
   <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -33,7 +33,7 @@ Beyond the corporate realm, Daniel is enthusiastic about sharing knowledge. He m
 </div><br/>
 
 
-### DataBases 💾
+## DataBases 💾
 <div style="display: inline_block">
   <img align="center" alt="cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" />
   <img align="center" alt="elastic" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
@@ -45,20 +45,20 @@ Beyond the corporate realm, Daniel is enthusiastic about sharing knowledge. He m
   <img align="center" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
 </div><br/>
 
-### Cloud ☁
+## Cloud ☁
 <div style="display: inline_block">
   <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img align="center" alt="azure" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
 </div><br/>
 
-### IDE 👩‍💻
+## IDE 👩‍💻
 <div style="display: inline_block">
   <img align="center" alt="vs" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img align="center" alt="rider" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" />
   <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div><br/>
 
-### MQ 📂
+## MQ 📂
 <div style="display: inline_block">
   <img align="center" alt="kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
   <img align="center" alt="rabbit" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
