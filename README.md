@@ -1,7 +1,9 @@
 ### Daniel Jesus 
 
 
- Sênior Software Engineer, Technical Writer and Speaker, Microsoft Certified Professional
+Daniel Jesus, a renowned software developer with over 12 years of experience, has notably excelled in the development and architecture of systems for the financial sector. As an influential member of the .NET technology community, Daniel has a strong presence at industry events, frequently taking the stage as a respected speaker, with notable participation in the .NET Conf Brazil.
+
+Beyond the corporate realm, Daniel is enthusiastic about sharing knowledge. He manages open-source projects on GitHub and produces specialized technical content about .NET on his YouTube channel (https://www.youtube.com/@DanielJesusNet). His leisure time is filled with video games, fun with his son, and, of course, programming, which remains a passion both professionally and personally.
  
  
 <div>
@@ -22,19 +24,6 @@
 </div>
 
 ##
-I am a .NET software engineer with over ten years working in various financial, e-commerce, logistics, fashion and digital media institutions.
-
-I work in backend development, using best programming practices such as SOLID, Design Patterns, TDD, DDD, among others, and acting in scrum ceremonies (Sprint Planning, Daily Meeting, Sprint Review and Retrospective), focusing on problems and solutions everyday.
-
-I have Microsoft-qualified certifications, such as certification 70-480: HTML5 Programming with JavaScript and CSS3 and I have a degree in Systems Analysis and Development.
-
-I have an active participation in the technical community, I create articles in the media and on my YouTube channel.
-
-Currently working on the development of new systems in the fixed income sector, such as new features and evolutionary improvements to legacy systems, with a focus on problem solving, bringing solutions to everyday life.
-
-
-I understand the business strategy and requirements. I work with stakeholders across the company to provide user stories, functional specs, conceptual data, and collaborate with other developers to ensure high-quality deliverables.
-
 ##
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djesusnet/)
