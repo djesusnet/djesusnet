@@ -1,4 +1,4 @@
-### Daniel Jesus 
+## Olá! Eu sou o Daniel Jesus 🖐️
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djesusnet/)
 [![Youtube Badge](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/danieljesusdotnet)
@@ -12,9 +12,9 @@ Beyond the corporate realm, Daniel is enthusiastic about sharing knowledge. He m
  
 <div>
   <a href="https://github.com/djesusnet">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djesusnet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djesusnet&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="284em" src="https://github-readme-streak-stats.herokuapp.com/?user=djesusnet&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djesusnet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djesusnet&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="284em" src="https://github-readme-streak-stats.herokuapp.com/?user=djesusnet&theme=dracula"/>
   
    
  </a>
