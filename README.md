@@ -3,7 +3,7 @@
 
 A renowned software developer with over 12 years of experience, has notably excelled in the development and architecture of systems for the financial sector. As an influential member of the .NET technology community, Daniel has a strong presence at industry events, frequently taking the stage as a respected speaker, with notable participation in the .NET Conf Brazil.
 
-Beyond the corporate realm, Daniel is enthusiastic about sharing knowledge. He manages open-source projects on GitHub and produces specialized technical content about .NET on his YouTube channel (https://www.youtube.com/@DanielJesusNet). His leisure time is filled with video games, fun with his son, and, of course, programming, which remains a passion both professionally and personally.
+Beyond the corporate realm, Daniel is enthusiastic about sharing knowledge. He manages open-source projects on GitHub and produces specialized technical content about .NET on his YouTube channel. His leisure time is filled with video games, fun with his son, and, of course, programming, which remains a passion both professionally and personally.
  
  
 <div>
