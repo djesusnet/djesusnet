@@ -3,21 +3,21 @@
 </p>
 
 <p>
-Nice to meet you. My name is Daniel Jesus.<br>
-Yes, another software engineer. No, I don’t believe tools or shiny frameworks magically fix bad architectural decisions.
+Hi, I’m Daniel Jesus.<br>
+I’m a software engineer and I don’t believe tools or frameworks fix poor architectural decisions.
 <br><br>
-I believe in <b>well-crafted software</b> — software that survives production, avoids constant firefighting, and doesn’t require unnecessary complexity just to keep a basic CRUD alive.
+I care about building well-crafted software. Software that behaves well in production, avoids constant firefighting, and keeps complexity under control, even in simple scenarios.
 <br><br>
-I’m passionate about <b>open source</b>, <b>software architecture</b>, and <b>performance</b>.  
-Not performance from isolated benchmarks, but the kind that holds under real traffic, real failures, and real business constraints.
+I’m interested in open source, software architecture, and performance.  
+Not performance in isolation, but performance that holds up under real traffic, failures, and business constraints.
 <br><br>
-My open-source projects are used by developers worldwide and have accumulated <b>12,000+ GitHub stars</b>, reflecting long-term adoption and community trust.
+My open-source projects are used by developers around the world and have accumulated <b>12,000+ GitHub stars</b>.  
+For me, that represents trust built over time.
 <br><br>
-I write code, speak at technical events, maintain open-source projects, and share what I learn with the community.  
-The more I learn, the clearer one thing becomes:
-<b>most problems are not technical — they are foundational.</b>
+I spend my time writing code, speaking at technical events, maintaining open-source projects, and sharing what I learn with the community.  
+With experience, one thing becomes very clear:
+<b>most problems are not technical. They are foundational.</b>
 </p>
-
 <hr />
 
 <h2 align="center">Let’s connect 🤝</h2>
@@ -55,8 +55,7 @@ The more I learn, the clearer one thing becomes:
 
 <p align="center">
   <i>
-    Signals of consistency, real-world usage, and long-term contribution —
-    not vanity metrics.
+    A simple snapshot of consistency, adoption, and long-term contribution.
   </i>
 </p>
 
@@ -65,8 +64,8 @@ The more I learn, the clearer one thing becomes:
 <h2>Technical Focus</h2>
 
 <p>
-These are the tools and technologies I work with — not because they are trendy,
-but because they help build reliable, maintainable systems that scale with real business needs.
+These are the technologies I work with on a regular basis — not because they are fashionable,
+but because they help me build systems that are reliable, maintainable, and aligned with real business needs.
 </p>
 
 <h3>Languages & Platform</h3>
@@ -101,7 +100,7 @@ but because they help build reliable, maintainable systems that scale with real 
 
 <p align="center">
   <i>
-    Architecture is not about choosing tools.<br>
-    It’s about making decisions today that you won’t regret tomorrow.
+    Good architecture isn’t about choosing the right tools.<br>
+    It’s about making thoughtful decisions — and owning the consequences.
   </i>
 </p>
