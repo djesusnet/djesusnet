@@ -1,49 +1,107 @@
-## Hello, I'm Daniel Jesus 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=440&height=45&lines=Daniel+Jesus;Father+👨‍👦;Microsoft+MVP;Software+Architecture+%26+Performance;Nice+to+meet+you" />
+</p>
 
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djesusnet/)
-[![YouTube Badge](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/danieljesusdotnet)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@djesusnet/)
-[![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/djesusnet)
+<p>
+Nice to meet you. My name is Daniel Jesus.<br>
+Yes, another software engineer. No, I don’t believe tools or shiny frameworks magically fix bad architectural decisions.
+<br><br>
+I believe in <b>well-crafted software</b> — software that survives production, avoids constant firefighting, and doesn’t require unnecessary complexity just to keep a basic CRUD alive.
+<br><br>
+I’m passionate about <b>open source</b>, <b>software architecture</b>, and <b>performance</b>.  
+Not performance from isolated benchmarks, but the kind that holds under real traffic, real failures, and real business constraints.
+<br><br>
+My open-source projects are used by developers worldwide and have accumulated <b>12,000+ GitHub stars</b>, reflecting long-term adoption and community trust.
+<br><br>
+I write code, speak at technical events, maintain open-source projects, and share what I learn with the community.  
+The more I learn, the clearer one thing becomes:
+<b>most problems are not technical — they are foundational.</b>
+</p>
 
-Software Engineer and Tech Lead focused on **architecture, performance, and long-term maintainability**, with strong experience in **mission-critical systems**, especially within the **financial sector**.
+<hr />
 
-Active member of the **.NET community**, speaking at industry events and conferences, including **.NET Conf Brazil**, and sharing real-world experiences around software architecture and engineering trade-offs.
+<h2 align="center">Let’s connect 🤝</h2>
 
-My open-source work is used by developers worldwide and has accumulated **12,000+ GitHub stars**, reflecting practical impact and long-term community trust.
-
-I maintain open-source projects, write technical articles, and create in-depth .NET content on YouTube.
-
-Outside of tech, I enjoy video games, spending time with my son, and — inevitably — writing code.
-
----
-
-<div align="center">
-  <a href="https://github.com/djesusnet">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djesusnet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djesusnet&layout=compact&langs_count=7&theme=dracula"/>
+<p align="center">
+  <a href="https://mvp.microsoft.com/en-us/PublicProfile">
+    <img src="https://img.shields.io/badge/Microsoft%20MVP-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
   </a>
-</div>
+  <a href="https://github.com/djesusnet">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/djesusnet">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/danieljesusdotnet">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@djesusnet">
+    <img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 
----
+<hr />
 
-## Core Expertise
+<h2 align="center">Engineering Analytics</h2>
 
-### Skills 🚀
-<div style="display: inline_block">
-  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+<p align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html?user=djesusnet&theme=bear&showIcons=true">
+    <img
+      alt="Daniel Jesus · GitHub Engineering Analytics"
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/djesusnet?theme=bear"
+    />
+  </a>
+</p>
 
----
+<p align="center">
+  <i>
+    Signals of consistency, real-world usage, and long-term contribution —
+    not vanity metrics.
+  </i>
+</p>
 
-### Databases 💾
-<div style="display: inline_block">
-  <img align="center" alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
-  <img align="center" alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <img align="center" alt="InfluxDB" src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" />
-  <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img align="center" alt="Redis" src="https://img.shields.io/badge/Redis-DD0
+<hr />
+
+<h2>Technical Focus</h2>
+
+<p>
+These are the tools and technologies I work with — not because they are trendy,
+but because they help build reliable, maintainable systems that scale with real business needs.
+</p>
+
+<h3>Languages & Platform</h3>
+
+![csharp](https://img.shields.io/badge/C%23-05122A?style=flat&color=green)&nbsp;
+![dotnet](https://img.shields.io/badge/.NET-05122A?style=flat&color=green)&nbsp;
+![javascript](https://img.shields.io/badge/JavaScript-05122A?style=flat&color=green)&nbsp;
+![go](https://img.shields.io/badge/Go-05122A?style=flat&color=green)
+
+<h3>Architecture & Backend</h3>
+
+![aspnet](https://img.shields.io/badge/ASP.NET-05122A?style=flat&color=orange)&nbsp;
+![rabbitmq](https://img.shields.io/badge/RabbitMQ-05122A?style=flat&color=orange)&nbsp;
+![kafka](https://img.shields.io/badge/Kafka-05122A?style=flat&color=orange)&nbsp;
+![sql](https://img.shields.io/badge/SQL-05122A?style=flat&color=orange)
+
+<h3>Databases</h3>
+
+![ravendb](https://img.shields.io/badge/RavenDB-05122A?style=flat&color=orange)&nbsp;
+![postgres](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&color=orange)&nbsp;
+![mongodb](https://img.shields.io/badge/MongoDB-05122A?style=flat&color=orange)&nbsp;
+![redis](https://img.shields.io/badge/Redis-05122A?style=flat&color=orange)&nbsp;
+![sqlserver](https://img.shields.io/badge/SQL_Server-05122A?style=flat&color=orange)
+
+<h3>Cloud & Infrastructure</h3>
+
+![aws](https://img.shields.io/badge/AWS-05122A?style=flat&color=blue)&nbsp;
+![azure](https://img.shields.io/badge/Azure-05122A?style=flat&color=blue)&nbsp;
+![docker](https://img.shields.io/badge/Docker-05122A?style=flat&color=blue)
+
+<hr />
+
+<p align="center">
+  <i>
+    Architecture is not about choosing tools.<br>
+    It’s about making decisions today that you won’t regret tomorrow.
+  </i>
+</p>
