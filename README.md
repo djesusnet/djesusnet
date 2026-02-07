@@ -45,10 +45,10 @@ With experience, one thing becomes very clear:
 <h2 align="center">Engineering Analytics</h2>
 
 <p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html?user=djesusnet&theme=dracula&showIcons=true">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html?user=djesusnet&theme=tokyonight&showIcons=true">
     <img
       alt="Daniel Jesus · GitHub Engineering Analytics"
-      src="https://awesome-github-stats.azurewebsites.net/user-stats/djesusnet?theme=bear"
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/djesusnet?theme=tokyonight"
     />
   </a>
 </p>
