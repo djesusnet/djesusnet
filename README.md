@@ -23,7 +23,7 @@ With experience, one thing becomes very clear:
 <h2 align="center">Let’s connect 🤝</h2>
 
 <p align="center">
-  <a href="https://mvp.microsoft.com/en-us/PublicProfile">
+  <a href="[https://mvp.microsoft.com/en-us/PublicProfile](https://mvp.microsoft.com/en-US/mvp/profile/162995af-2c38-414c-9450-d1d843f7445b)">
     <img src="https://img.shields.io/badge/Microsoft%20MVP-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
   </a>
   <a href="https://github.com/djesusnet">
